@@ -11,3 +11,6 @@ naam = "kripesh" #here, naam is a variable which stores/olds string type value i
 # and in python string are always inside single or double quotes"
 # for eg: "kripesh" or 'kripesh'
 
+# commit practice
+
+
