@@ -12,5 +12,31 @@ naam = "kripesh" #here, naam is a variable which stores/olds string type value i
 # for eg: "kripesh" or 'kripesh'
 
 # commit practice
+"""
+syntax:
 
+define function_name():
+    # you can do any thing here
+    return ...... someting
 
+#calling function
+function_naame()
+
+    
+"""
+#example
+
+#creating function:
+
+def duita_num_jodne():
+    sum= 9+0
+    print(sum)
+    return sum
+
+#calling function with their name
+duita_num_jodne()
+
+#taking input form user 
+my_name= input("please enter your name")
+
+print(my_name)
